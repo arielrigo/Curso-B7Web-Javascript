@@ -1,6 +1,6 @@
 let n = 10
 
-//let res = n.toString() + 5 ele passa pra string ai vai concatenar
+//let res = n.toString() ele passa pra string ai vai concatenar
 
 //let res = n.toFixed(2)  ele tira decimais do numero e no caso deixa so duas casas
 
